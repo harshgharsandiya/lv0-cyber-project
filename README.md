@@ -18,8 +18,8 @@ Don't worry, this one is easy for you.
 - [x] Text-Based File Hashing
 - [x] URL Shortener
 - [x] HTTP Header Inspector
-- [ ] Simple Ping Sweep
-- [ ] Basic Web Scraper
+- [x] Simple Ping Sweep
+- [x] Basic Web Scraper
 - [ ] Basic Keylogger (For Educational Purposes)
 - [ ] Simple Password Generator
 - [ ] File Integrity Checker
