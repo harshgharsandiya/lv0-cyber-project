@@ -15,7 +15,8 @@ This program allows you to **encrypt and decrypt any file** (not limited to text
 
 ## Prerequisites  
 - Python 3.x installed on your system.  
-- `cryptography` library installed. To install it, run the following command:  
+- `cryptography` library installed. To install it, run the following command:  \
+
   ```
   pip install cryptography
   ```
@@ -24,6 +25,7 @@ This program allows you to **encrypt and decrypt any file** (not limited to text
 ## Usage
 1. Clone or download the project files.
 2. Run the script using Python:
+
    ```bash
    python main.py
    ```
@@ -53,3 +55,10 @@ This program allows you to **encrypt and decrypt any file** (not limited to text
 
 ## Important Notes  
 > Make sure to **keep your `key.key` file safe** as it is required for both encryption and decryption.
+
+## License
+This project is open-source and available under the MIT License.
+
+## Author:
+> Created By: Harsh Gharsandiya
+
