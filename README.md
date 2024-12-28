@@ -12,7 +12,7 @@ Don't worry, this one is easy for you.
 ---
 
 ## Projects
-[.] Password Strength Checker
+[ ] Password Strength Checker
 
 ---
 
