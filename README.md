@@ -1,6 +1,6 @@
 # Very Easy Security Projects
 
-- Don't worry, this one is easy for you.
+Don't worry, this one is easy for you.
 
 ---
 
