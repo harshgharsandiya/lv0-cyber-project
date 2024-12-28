@@ -12,10 +12,10 @@ Don't worry, this one is easy for you.
 ---
 
 ## Projects
-- [ ] Password Strength Checker
-- [ ] File Encryption/Decryption Tool
-- [ ] Simple Port Scanner
-- [ ] Text-Based File Hashing
+- [x] Password Strength Checker
+- [x] File Encryption/Decryption Tool
+- [x] Simple Port Scanner
+- [x] Text-Based File Hashing
 - [ ] URL Shortener
 - [ ] HTTP Header Inspector
 - [ ] Simple Ping Sweep
