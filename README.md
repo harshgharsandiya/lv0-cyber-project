@@ -16,7 +16,7 @@ Don't worry, this one is easy for you.
 - [x] File Encryption/Decryption Tool
 - [x] Simple Port Scanner
 - [x] Text-Based File Hashing
-- [ ] URL Shortener
+- [x] URL Shortener
 - [ ] HTTP Header Inspector
 - [ ] Simple Ping Sweep
 - [ ] Basic Web Scraper
@@ -35,5 +35,10 @@ Don't worry, this one is easy for you.
 
 ---
 
-## Author
+
+
+## License  
+This project is open-source and available under the MIT License.
+
+## Author:  
 > Created By: Harsh Gharsandiya
