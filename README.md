@@ -21,7 +21,6 @@ Don't worry, this one is easy for you.
 - [x] Simple Ping Sweep
 - [x] Basic Web Scraper
 - [x] Basic Keylogger (For Educational Purposes)
-- [ ] Simple Password Generator
 - [ ] File Integrity Checker
 - [ ] Simple Message Encryption (Caesar Cipher)
 - [ ] QR Code Generator
