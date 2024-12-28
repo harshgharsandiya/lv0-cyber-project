@@ -12,9 +12,9 @@ Don't worry, this one is easy for you.
 ---
 
 ## Projects
+- [ ] Password Strength Checker
 - [ ] File Encryption/Decryption Tool
 - [ ] Simple Port Scanner
-- [ ] Password Strength Checker
 - [ ] Text-Based File Hashing
 - [ ] URL Shortener
 - [ ] HTTP Header Inspector
