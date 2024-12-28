@@ -17,7 +17,7 @@ Don't worry, this one is easy for you.
 - [x] Simple Port Scanner
 - [x] Text-Based File Hashing
 - [x] URL Shortener
-- [ ] HTTP Header Inspector
+- [x] HTTP Header Inspector
 - [ ] Simple Ping Sweep
 - [ ] Basic Web Scraper
 - [ ] Basic Keylogger (For Educational Purposes)
