@@ -19,8 +19,8 @@ Don't worry, this one is easy for you.
 - [x] URL Shortener
 - [x] HTTP Header Inspector
 - [x] Simple Ping Sweep
-- [] Basic Web Scraper
-- [ ] Basic Keylogger (For Educational Purposes)
+- [x] Basic Web Scraper
+- [x] Basic Keylogger (For Educational Purposes)
 - [ ] Simple Password Generator
 - [ ] File Integrity Checker
 - [ ] Simple Message Encryption (Caesar Cipher)
