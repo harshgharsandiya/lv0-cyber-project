@@ -39,6 +39,7 @@ User-Agent: Mozilla/5.0
 
 ## Note
 > Ensure you run the script with appropriate privileges, as sniffing network packets requires elevated permissions.
+
 > This program captures unencrypted packets like HTTP. It will not capture HTTPS traffic without SSL decryption, which requires additional steps.
 
 ## License  
