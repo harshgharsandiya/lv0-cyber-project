@@ -21,7 +21,7 @@ Don't worry, this one is easy for you.
 - [x] Simple Ping Sweep
 - [x] Basic Web Scraper
 - [x] Basic Keylogger (For Educational Purposes)
-- [ ] QR Code Generator
+- [x] QR Code Generator
 - [ ] Basic Web Crawler
 - [ ] Simple Network Sniffer (Capturing HTTP Requests)
 - [ ] Simple IP Address Validator
