@@ -24,7 +24,7 @@ Don't worry, this one is easy for you.
 - [x] QR Code Generator
 - [x] Basic Web Crawler
 - [x] Simple Network Sniffer (Capturing HTTP Requests)
-- [ ] Simple IP Address Validator
+- [x] Simple IP Address Validator
 - [ ] Brute Force Login Simulator
 - [ ] Simple Directory Traversal Attack Simulator
 - [ ] Local DNS Resolver
