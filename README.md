@@ -22,8 +22,8 @@ Don't worry, this one is easy for you.
 - [x] Basic Web Scraper
 - [x] Basic Keylogger (For Educational Purposes)
 - [x] QR Code Generator
-- [ ] Basic Web Crawler
-- [ ] Simple Network Sniffer (Capturing HTTP Requests)
+- [x] Basic Web Crawler
+- [x] Simple Network Sniffer (Capturing HTTP Requests)
 - [ ] Simple IP Address Validator
 - [ ] Brute Force Login Simulator
 - [ ] Simple Directory Traversal Attack Simulator
