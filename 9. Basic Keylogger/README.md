@@ -7,20 +7,6 @@ This is a simple keylogger script written in Python using the `pynput` library t
 - Stores the logged keystrokes with a timestamp in a file named `keylog.txt`.
 - Stops logging when the "Esc" key is pressed.
 
-## Prerequisites  
-ChatGPT
-
-Here is the README.md file for your keylogger project:
-
-# Basic Keylogger Project
-
-This is a simple keylogger script written in Python using the `pynput` library to capture keystrokes and log them to a file.
-
-## Features
-- Logs all keystrokes made by the user.
-- Stores the logged keystrokes with a timestamp in a file named `keylog.txt`.
-- Stops logging when the "Esc" key is pressed.
-
 ## Requirements
 - Python 3.x
 - `pynput` library
